@@ -1,10 +1,5 @@
 <p align="center">
 
-<img align="center" src="https://github.com/chasescape/chasescape?username=chasescape&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-  <br>
-    <br>
-<img align="center" src="https://github.com/chasescape/chasescape?username=chasescape&layout=compact&theme=radical" />
-
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=chasescape&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
    <br>
