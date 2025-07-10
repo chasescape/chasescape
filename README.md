@@ -1,14 +1,12 @@
 <!-- 👩🏻‍💻 个人介绍 -->
 <h3 align="center">Hi there, I'm <b>chasescape</b> 👋</h3>
 <p align="center">
-  🌱 A software engineering student passionate about Embedded AI, Web Dev, and creative systems.<br>
-  ✨ Currently working on: AI Interview Platform | STM32 Projects | Safety Simulations<br>
-  🐾 Cat lover. Potato lover. Code lover.
+  🌱 A software engineering student.<br>
 </p>
 
 <!-- 🐱 暹罗猫动漫风动图背景 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGg2cHE5OHlxY3BrZXFrbnh5N2I2YmFiZTh6eG0wdTlkM2Y4bnByMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L05HgB2h6qICDs5Sms/giphy.gif" width="300" alt="Siamese Anime Cat"/>
+    <img src="https://i.imgur.com/K61O3Jx.png" width="280" alt="Siamese Anime Cat"/>
 </p>
 
 <!-- 📊 GitHub Stats -->
