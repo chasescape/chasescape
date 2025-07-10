@@ -17,10 +17,3 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=chasescape&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<!-- ☕ Buy Me a Coffee 美化按钮 -->
-<p align="center">
-  <a href="https://github.com/chasescape">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-blue?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee">
-  </a>
-</p>
