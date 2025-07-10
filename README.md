@@ -1,6 +1,6 @@
 <p align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chasescape&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
+<img align="center" src="https://github.com/chasescape/chasescape?username=chasescape&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
   <br>
     <br>
 <img align="center" src="https://github.com/chasescape/chasescape?username=chasescape&layout=compact&theme=radical" />
