@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5AAEFF&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there%2C+I'm+chasescape+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8C%B1;Cat+Lover+%7C+Code+Builder+%F0%9F%90%BE;Always+learning+new+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h3>
 
-<!-- 🐱 暹罗猫动漫风动图 -->
-<p align="center">
-  <img src="https://i.imgur.com/K61O3Jx.png" width="280" alt="Siamese Anime Cat"/>
-</p>
+
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
