@@ -1,11 +1,39 @@
+<!-- 顶部彩带动画 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&repeat=false&width=435&lines=Sweet+Baby+生日快乐" alt="Birthday Wishes" />
-  </h1>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Happy%20Birthday%20Sweet%20Baby!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=May%20all%20your%20wishes%20come%20true%20✨&descAlignY=52" width="100%" />
+</div>
+
+<!-- 装饰分隔线 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+</p>
+
+<!-- 生日蛋糕 ASCII 艺术 -->
+<div align="center">
+<pre>
+  🎈 🎈 🎈
+    🎂
+  ┌ ─ ─ ┐ 
+  │ ∞ ∞ │
+  └ ─ ─ ┘
+ Happy Birthday!
+</pre>
+</div>
+
+<!-- 装饰分隔线 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+</p>
+
+<!-- 生日祝福语 -->
+<div align="center">
+  <h3>🌟 生日快乐！ 🌟</h3>
+
+</div>
+
+<!-- 底部彩带动画 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
 
 
