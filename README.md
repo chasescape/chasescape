@@ -47,20 +47,20 @@
 
 <!-- 联系方式 -->
 <div align="center">
-  <a href="https://github.com/chasescape">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:freechase065@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="mailto:3328162745@qq.com">
-    <img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
-  </a>
+  <p align="center">
+    <a href="https://github.com/chasescape" target="_blank">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" alt="GitHub"/>
+    </a>
+    &nbsp;
+    <a href="mailto:freechase065@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25" alt="Gmail"/>
+    </a>
+    &nbsp;
+    <a href="mailto:3328162745@qq.com" target="_blank">
+      <img src="https://img.shields.io/badge/-QQ-54B4EF?style=flat-square&logo=tencentqq&logoColor=white" height="25" alt="QQ"/>
+    </a>
+  </p>
 </div>
-<br/>
 
 <!-- 访客计数器 - 使用 hits.sh -->
 <div align="center">
