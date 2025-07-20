@@ -55,9 +55,14 @@
 
 <br/>
 
-<!-- 访客计数器 -->
+<!-- 访客计数器 - 使用 hits.sh -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/chasescape/count.svg" alt="Visitor Count"/>
+  <img src="https://hits.sh/github.com/chasescape.svg?style=flat-square&label=Views&color=0891b2"/>
+</div>
+
+<!-- 贪吃蛇动画 - 使用 github-readme-activity-graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chasescape&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
