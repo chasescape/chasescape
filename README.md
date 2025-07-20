@@ -1,42 +1,50 @@
-<!-- 顶部彩带动画 -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7319EFF&center=true&vCenter=true&repeat=false&width=435&lines=Sweet+Baby+生日快乐" alt="Birthday Wishes" />
+</h1>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Happy%20Birthday%20Sweet%20Baby!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=May%20all%20your%20wishes%20come%20true%20✨&descAlignY=52" width="100%" />
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="wave" />
+</div>
+
+<div align="center" style="background: linear-gradient(45deg, #ff69b4, #ff1493, #ff69b4); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h3 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+    🎂 Happy Birthday Sweet Baby 🎂
+  </h3>
+  <p style="color: white;">
+    愿你的生日充满欢乐和惊喜 ✨
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Sweet+Baby+生日快乐+🎂;愿你永远开心快乐+🌟;所有愿望都能实现+🎁" alt="Birthday Wishes" />
+  🎈 🎁 🎊 🎉 🎈
 </div>
 
-<!-- 装饰分隔线 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
-</p>
-
-<!-- 生日蛋糕 ASCII 艺术 -->
 <div align="center">
-<pre>
-  🎈 🎈 🎈
-    🎂
-  ┌ ─ ─ ┐ 
-  │ ∞ ∞ │
-  └ ─ ─ ┘
- Happy Birthday!
+<pre style="background: transparent; border: none;">
+     🎂
+  ┏━━━━━┓
+  ┃ ♥ ♥ ┃
+  ┗━━━━━┛
+Happy Birthday!
 </pre>
 </div>
 
-<!-- 装饰分隔线 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
-</p>
-
-<!-- 生日祝福语 -->
 <div align="center">
-  <h3>🌟 生日快乐 🌟</h3>
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F7319EFF&center=true&vCenter=true&width=500&lines=愿你永远闪耀+✨;愿你梦想成真+🌟;愿你快乐无限+🎈" alt="Wishes" />
+  </h3>
 </div>
 
-<!-- 底部彩带动画 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 
