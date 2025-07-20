@@ -1,14 +1,3 @@
-# Hi there, I'm chasescape 👋
-
-<!-- 动态打字效果 -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5AAEFF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Software+Engineering+Student+%F0%9F%8C%B1;Cat+Lover+%7C+Code+Builder+%F0%9F%90%BE;Always+learning+new+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
 <h2 align="center">Hi there, I'm chasescape 👋</h2>
 
 <div align="center">
