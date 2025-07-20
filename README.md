@@ -34,16 +34,13 @@
 
 <br/>
 
-<!-- 活动图表 -->
+<!-- 贪吃蛇动画 -->
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chasescape&theme=tokyonight" />
-</div>
-
-<br/>
-
-<!-- 贡献蛇形图 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/chasescape/chasescape/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chasescape/chasescape/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chasescape/chasescape/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/chasescape/chasescape/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
