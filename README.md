@@ -32,32 +32,21 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasescape&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/>
 
-<!-- 贪吃蛇动画 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chasescape/chasescape/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chasescape/chasescape/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/chasescape/chasescape/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
-<br/>
-
-<!-- 联系方式 -->
+<!-- 简约风格 -->
 <div align="center">
   <p align="center">
     <a href="https://github.com/chasescape" target="_blank">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" alt="GitHub"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:freechase065@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25" alt="Gmail"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:3328162745@qq.com" target="_blank">
-      <img src="https://img.shields.io/badge/-QQ-54B4EF?style=flat-square&logo=tencentqq&logoColor=white" height="25" alt="QQ"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/-QQ-blue?style=flat&logo=tencentqq&logoColor=white" alt="QQ"/>
     </a>
   </p>
 </div>
