@@ -4,7 +4,36 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Sweet+Baby+生日快乐+🎂;愿你永远开心快乐+🌟;所有愿望都能实现+🎁" alt="Birthday Wishes" />
+  <svg width="100%" height="100" viewBox="0 0 600 100">
+    <!-- 彩带 1 - 粉色 -->
+    <path fill="#FF69B4">
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="
+        M0,50 Q150,40 300,50 T600,50;
+        M0,50 Q150,60 300,50 T600,50;
+        M0,50 Q150,40 300,50 T600,50
+      "/>
+    </path>
+    <!-- 彩带 2 - 蓝色 -->
+    <path fill="#87CEEB" transform="translate(0,10)">
+      <animate attributeName="d" dur="2.5s" repeatCount="indefinite" values="
+        M0,50 Q150,60 300,50 T600,50;
+        M0,50 Q150,40 300,50 T600,50;
+        M0,50 Q150,60 300,50 T600,50
+      "/>
+    </path>
+    <!-- 彩带 3 - 紫色 -->
+    <path fill="#DDA0DD" transform="translate(0,20)">
+      <animate attributeName="d" dur="3s" repeatCount="indefinite" values="
+        M0,50 Q150,40 300,50 T600,50;
+        M0,50 Q150,60 300,50 T600,50;
+        M0,50 Q150,40 300,50 T600,50
+      "/>
+    </path>
+  </svg>
+
+  <h1 style="background: linear-gradient(to right, #ff69b4, #87ceeb, #dda0dd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 32px; margin: 20px;">
+    Sweet Baby 生日快乐 🎂
+  </h1>
 </div>
 
 <!-- 装饰分隔线 -->
