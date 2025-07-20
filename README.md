@@ -50,9 +50,16 @@
   <a href="https://github.com/chasescape">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- 你可以添加更多社交媒体链接 -->
+  <a href="mailto:freechase065@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="mailto:3328162745@qq.com">
+    <img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+  </a>
 </div>
-
 <br/>
 
 <!-- 访客计数器 - 使用 hits.sh -->
@@ -60,10 +67,6 @@
   <img src="https://hits.sh/github.com/chasescape.svg?style=flat-square&label=Views&color=0891b2"/>
 </div>
 
-<!-- 贪吃蛇动画 - 使用 github-readme-activity-graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chasescape&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
 
 ---
 
